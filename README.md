@@ -4,7 +4,7 @@
 
 [Resources](#resources)
 
-- [PBBG.com](https://pbbg.com) The home of PBBG's and text based browser games.
+- [PBBG.com](https://pbbg.com) The home of Persistent Browser-Based Games
 - [MakeWebGames](https://makewebgames.io) One of the original forums for web games, this forum hosts an abundance of content.
 - [Cardboard Machete](https://cardboardmachete.com/blog) Covering a wide range of topics from running a game to developing it, Caleb (also known as Zaalah) produces high quality content which are must reads.
 
