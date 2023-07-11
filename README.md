@@ -2,8 +2,7 @@
 
 > Curated list of awesomeness for Persistent Browser Based Games.
 
-[Resources](#resources)
-
+[Blogs & Forums](#resources)
 - [PBBG.com](https://pbbg.com) The home of Persistent Browser-Based Games
 - [MakeWebGames](https://makewebgames.io) One of the original forums for web games, this forum hosts an abundance of content.
 - [Cardboard Machete](https://cardboardmachete.com/blog) Covering a wide range of topics from running a game to developing it, Caleb (also known as Zaalah) produces high quality content which are must reads.
@@ -22,3 +21,7 @@
 - [Game Icons](https://game-icons.net) Useful and consistent icons catered toward games that are absolutely free to use.
 - [Itch.io](https://itch.io/game-assets) Itch.io has a fantastic marketplace for game assets, both free and paid.
 - 💲[Graphic River](https://graphicriver.net/) Discover 700,000+ fonts, logos & assets from $2
+- 💲[CraftPix](https://craftpix.net/) Craftpix offers high-quality 2D game assets for your project. Here you will find game icons, sprites, tilesets, gui, characters and more. All graphics are at a very affordable price. There is also a section with free game assets.
+
+[Game Tools](#game-tools)
+- [Sprite Maker](https://sanderfrenken.github.io/Universal-LPC-Spritesheet-Character-Generator/#?body=Body_color_light&head=Human_male_light&weapon=Bow_recurve) Universal spritesheet generator
